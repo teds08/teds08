@@ -1,5 +1,5 @@
-<p align="left">Hi there, I’m Teds 👋</p>
-
+<h1 align="left">Hi there, I’m Teds 👋</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Junior+Web+Developer;Nice+to+meet+yaa)
 ###
 
 <p align="left">- 🎓 Studying Information Technology (BSIT)</p>
