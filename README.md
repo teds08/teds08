@@ -17,7 +17,7 @@
 
 <p align="left">- 📘 I use GitHub to share my code, practice, and document my growth</p>
 
-###
+###SOCIAL MEDIA
 
 <div align="left">
   <a href="https://www.facebook.com/Shenpiekun" target="_blank">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
 
-###
+###PROG. LANGUAGES & and TECH.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
