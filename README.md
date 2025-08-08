@@ -1,6 +1,6 @@
 ## Hi there, I’m Teds 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=Junior+Web+Developer;Nice+to+meet+ya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61B85D&width=435&lines=I'm+a+Junior+Web+Dev;I'm+a+Gamer;Nice+to+meet+yaaa)](https://git.io/typing-svg)
 <br>
 
 <p align="left">- 🎓 Studying Information Technology (BSIT)</p>
