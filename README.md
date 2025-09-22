@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">- 💻 Exploring web development with Vite + React</p>
+<p align="left">- 💻 Exploring web development with Vite + React + NextJs</p>
 
 ###
 
